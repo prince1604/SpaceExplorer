@@ -325,5 +325,5 @@ This is a **False Positive**. The admin panel features a password lock screen. B
 
 This project does **not** collect your data, and the source code is entirely open and contained in `index.html` for you to verify. The password mechanism is entirely client-side JavaScript.
 
---
+---
 "This repository is a purely educational coding experiment. The included features are for demonstration only and are not intended for—and do not support—any harmful, malicious, or violent activities."
